@@ -19,3 +19,8 @@ sudo chmod 777 -R rms.sh
 sh rms.sh
 
 ========================================
+
+
+
+
+https://huezohuezo1990.wordpress.com
