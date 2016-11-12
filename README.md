@@ -21,6 +21,12 @@ sh rms.sh
 ========================================
 
 
+Tutorial: 
 
+https://huezo.github.io/rms/
+
+
+
+Blog: 
 
 https://huezohuezo1990.wordpress.com
